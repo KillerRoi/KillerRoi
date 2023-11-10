@@ -3,15 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killerroi&label=Profile%20views&color=0e75b6&style=flat" alt="killerroi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/killer0roi" target="blank"><img src="https://img.shields.io/twitter/follow/killer0roi?logo=twitter&style=for-the-badge" alt="killer0roi" /></a> </p>
-
 - 📫 How to reach me **killerroi@pm.me**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/killerroi/](https://www.linkedin.com/in/killerroi/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
