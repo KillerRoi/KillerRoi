@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
 <h3 align="center">I am passionate about software development and innovation. I enjoy looking at the big picture and dissecting things down into individual components.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=killerroi&label=Profile%20views&color=0e75b6&style=flat" alt="killerroi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=killerroi&label=Profile%20views&color=ff0000&style=flat" alt="killerroi" /> </p>
 
 - 📫 How to reach me **killerroi@pm.me**
 
@@ -25,4 +25,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/killerroi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="killerroi" /></a></p><br><br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=killerroi&show_icons=true&theme=dracula&locale=en" alt="killerroi" /></p>
 
